@@ -1,6 +1,6 @@
 # All Restaurants in Bellflower, California, US
 
-> Free BeamStation sample export with 16 rows and masked direct-contact fields.
+> Free BeamStation sample export with 15 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `518869` |
 | Location | Bellflower |
 | Category | Restaurants |
-| Full dataset size | 160 records |
-| Free sample size | 16 records (10.0%) |
-| Last export | 2026-04-09T13:07:14.399836+00:00 |
+| Full dataset size | 159 records |
+| Free sample size | 15 records (9.43%) |
+| Last export | 2026-04-16T13:13:49.951194+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-bellflower-california-us-sample-518869/releases/download/sample-latest/beamstation_518869_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
