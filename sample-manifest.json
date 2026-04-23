@@ -1,12 +1,12 @@
 {
-  "export_job_id": "6adcb933-a37b-4c12-b327-b525ea9fc56a",
+  "export_job_id": "178bd10f-3813-4b93-b082-75e58c0d12f3",
   "id_short": 518869,
-  "published_at": "2026-04-19T19:16:53Z",
+  "published_at": "2026-04-23T19:21:57Z",
   "repo_name": "all-restaurants-in-bellflower-california-us-sample-518869",
   "sample_asset_name": "beamstation_518869_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/518869/beamstation_518869_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_records": 15,
-  "sample_sha256": "c505d73b7168421b79776eca55d356719370dcb78666467a2d71b9c825bbecce",
-  "sample_size_bytes": 64580,
-  "total_records": 159
+  "sample_sha256": "b5fbcf36b430e9fd9dc446a7b6c560f5b83ffa1abb914c3c874c03541c7f4603",
+  "sample_size_bytes": 68236,
+  "total_records": 155
 }
