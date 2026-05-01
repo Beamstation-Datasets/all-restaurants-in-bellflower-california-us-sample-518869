@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Market-wide restaurant data for Bellflower in West Coast. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
   "config_name": "All Restaurants in Bellflower, California, US",
-  "export_job_id": "178bd10f-3813-4b93-b082-75e58c0d12f3",
+  "export_job_id": "30a7d835-a615-48e8-9a6a-51312631a6e9",
   "github_org": "Beamstation-Datasets",
   "id_short": 518869,
   "location_name": "Bellflower",
   "location_type": "city",
   "repo_name": "all-restaurants-in-bellflower-california-us-sample-518869",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/518869/beamstation_518869_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.68,
+  "sample_pct": 9.62,
   "sample_records": 15,
-  "sample_sha256": "b5fbcf36b430e9fd9dc446a7b6c560f5b83ffa1abb914c3c874c03541c7f4603",
-  "sample_size_bytes": 68236,
-  "total_records": 155,
-  "updated_at": "2026-04-23T12:14:59.088171+00:00"
+  "sample_sha256": "d4c63bb8161a05b704ad51a3bd6def2d77de22b7d4358fb38ba127d96b11017e",
+  "sample_size_bytes": 68013,
+  "total_records": 156,
+  "updated_at": "2026-04-30T23:25:45.767647+00:00"
 }
