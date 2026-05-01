@@ -9,9 +9,9 @@
 | Dataset ID | `518869` |
 | Location | Bellflower |
 | Category | Restaurants |
-| Full dataset size | 155 records |
-| Free sample size | 15 records (9.68%) |
-| Last export | 2026-04-23T12:14:59.088171+00:00 |
+| Full dataset size | 156 records |
+| Free sample size | 15 records (9.62%) |
+| Last export | 2026-04-30T23:25:45.767647+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-bellflower-california-us-sample-518869/releases/download/sample-latest/beamstation_518869_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
